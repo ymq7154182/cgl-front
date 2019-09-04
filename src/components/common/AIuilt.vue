@@ -13,7 +13,7 @@
         <li @click="gotoData"><a href="#">数据清洗</a></li>
         <li><a href="#">文本分类</a></li>
         <li @click="gotoChineseParticiple"><a href="#">中文分词</a></li>
-        <li><a href="#">用户文献图谱</a></li>
+        <li><a href="#">用户图谱</a></li>
         <li><a href="#">数据集</a></li>
         <li><a href="#">工程库</a></li>
         <li><a href="#">算法库</a></li>
